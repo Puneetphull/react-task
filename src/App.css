@@ -1,0 +1,40 @@
+.wrapper{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+.box{
+  height: 50px;
+  width: 50px;
+  background: grey;
+  border-radius: 6px;
+}
+.box.item-0 {
+  top: 0px;
+  left: 228px;
+}
+.box.item-1 {
+  top: 0;
+  left: 178px;
+}
+.box.item-2 {
+  top: 16px;
+  left: 128px;
+}
+.box.item-3 {
+  top: 65px;
+  left: 128px;
+}
+.box.item-4 {
+  top: 114px;
+  left: 128px;
+}
+.box.item-5 {
+  top: 129px;
+  left: 177px;
+}
+.box.item-6 {
+  top: 129px;
+  left: 226px;
+}
